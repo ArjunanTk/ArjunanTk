@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArjunanTk
-- 👀 I’m interested in ...Software development
-- 🌱 I’m currently learning ...ionic 
-- 💞️ I’m looking to collaborate on ...Developers community
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Arjunan Thiruppathi
+- 👀 I’m interested in ...Web development
+- 🌱 i am Having knowledge in FrontEnt Web Developmnet 
+- 💞️ I’m looking to collaborate on Web Developers community
+- 📫  reach me on www.linkedin/in/arjunan-thiruppathi-14231a198
 
 <!---
 ArjunanTk/ArjunanTk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
